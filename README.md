@@ -17,7 +17,9 @@ IS the integration point / demo — every module's operations are
 already wired to their kiosk actions.
 - A `Makefile` to build everything together
 
+## My Contribution
 
+I developed the Food Court Layout module using a general tree implemented with first-child and next-sibling pointers. The module supports location insertion, traversal, searching, route finding, edge-case handling and benchmark testing.
 
 
 `main.cpp` already calls every module's public methods through the
